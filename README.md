@@ -128,9 +128,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Contact
-
-- **Author**: Your Name  
-- **Email**: your.email@example.com  
-- **GitHub**: [YourUsername](https://github.com/yourusername)
 
